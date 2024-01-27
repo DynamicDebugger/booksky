@@ -1,6 +1,6 @@
 # BookSky
 
-I have created this project using HTML, CSS, and JavaScript, and it's deployed on Netlify. You can check it out [here](https://65b490408a9f9e5701efdbb0--booksky-mini-proj01.netlify.app/){:target="_blank"}.
+I have created this project using HTML, CSS, and JavaScript, and it's deployed on Netlify. You can check it out [here](https://65b490408a9f9e5701efdbb0--booksky-mini-proj01.netlify.app/){:target="_blank"}
 
 ## About
 
