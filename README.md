@@ -10,4 +10,4 @@ Please note that this is currently a front-end project, and there is no backend 
 
 Feel free to explore the [BookSky project](https://65b490408a9f9e5701efdbb0--booksky-mini-proj01.netlify.app/)!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8622d2f2-ff7c-4505-81e0-16cadefaaabf/deploy-status)]([https://app.netlify.com/sites/booksky-mini-proj01/deploys](https://65b490408a9f9e5701efdbb0--booksky-mini-proj01.netlify.app/)https://65b490408a9f9e5701efdbb0--booksky-mini-proj01.netlify.app/)
+
